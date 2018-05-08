@@ -15,8 +15,8 @@ I gathered a few different twarc searches, since none was capturing exactly what
 
 @blackterp is the twitter account of UMD’s Black Student Union. I selected their account because they maintain an active presence, tweeted many times during the weeklong collection period twarc could accommodate, and it seemed to me that the tweets of the BSU would reflect black student life and interests at UMD. In between April 29 and May 7, @blackterp tweeted 26 times. Using google sheets I determined that the most retweeted tweet from this time period was a tie between a retweet from @ASPACUMD (the African Students Progressive Action Committee at UMD) celebrating Freedom Day in South Africa, and a retweet from @SSAUMD (the Somali Student Organization at UMD) announcing their cultural show on April 29.
 
-<img src="https://github.com/caitcl/datastory/blob/master/images/ASPACUMDretweet.png" height="400">
-<img src="https://github.com/caitcl/datastory/blob/master/images/SSAUMDretweet.png" height="400">
+<img src="https://github.com/caitcl/datastory/blob/master/images/ASPACUMDretweet.png" width="700">
+<img src="https://github.com/caitcl/datastory/blob/master/images/SSAUMDretweet.png" width="700">
 
 I also captured tweets to @blackterp, in case this data would provide additional context and angles of analysis. This data set is very small, only 4 tweets, and unfortunately did not provide many points of analysis. Because these two data sets were very small (barely little big data!), I decided to do a twarc collection of tweets that included the words “black” and “umd” – I modified the search syntax to ‘”black””umd”’. 
 
@@ -25,10 +25,10 @@ This search uncovered 142 tweets that contained both “black” and “umd,” 
 “I’m so disconnected from black umd,” posted by an user who appears to be a current UMD student on May 5, a twitter thread comparing Netflix series *Dear White People* to UMD on May 4, a conversation on black men ignoring black women’s voices at UMD on May 7, as well as several tweets about the AADHUM imitative and black digital humanities. 
 
 <img src="https://github.com/caitcl/datastory/blob/master/images/nnennannenna_tweet.png" width="700">
-<img src="https://github.com/caitcl/datastory/blob/master/images/dearwhitepeopletweet.png" height="400">
+<img src="https://github.com/caitcl/datastory/blob/master/images/dearwhitepeopletweet.png" width="700">
 <img src="https://github.com/caitcl/datastory/blob/master/images/africana_barbieblackwomentweet.png" width="700">
 <img src="https://github.com/caitcl/datastory/blob/master/images/darylewilliamsblackdhtweet.png" width="700">
-<img src="https://github.com/caitcl/datastory/blob/master/images/jluwritesblackdhtweet.png" height="400">
+<img src="https://github.com/caitcl/datastory/blob/master/images/jluwritesblackdhtweet.png" width="700">
 
 This was by far the richest twitter search for the type of data I am interested in, although there was also a significant amount of “noise” in the data set – tweets about the color black, or a satiric website named The Black Sheep (@BlackSheep_UMD) – that was unrelated to the topics of black student life on campus. This data set is also difficult to analyze using google sheets – the type of data story from Martha Kang’s 7 types that most resonates with the data I collected is “Start Big and Drill Down” – the interesting tweets I referenced in the paragraph above I discovered simply by reading the tweets in twitter’s advanced search, not by analyzing the collected data set as a whole. I struggled to find meaningful ways to use the the pivot table and chart creating capabilities of google sheets – after a few tries, I decided that the option to sort the number of each type of tweet (original, quote, retweet, reply) might provide some insight, so I will include that table and chart here.
 
