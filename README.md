@@ -27,7 +27,7 @@ This search uncovered 142 tweets that contained both “black” and “umd,” 
 <img src="https://github.com/caitcl/datastory/blob/master/images/nnennannenna_tweet.png" height="400">
 <img src="https://github.com/caitcl/datastory/blob/master/images/dearwhitepeopletweet.png" height="400">
 <img src="https://github.com/caitcl/datastory/blob/master/images/africana_barbieblackwomentweet.png" height="400">
-<img src="hhttps://github.com/caitcl/datastory/blob/master/images/darylewilliamsblackdhtweet.png" height="400">
+<img src="https://github.com/caitcl/datastory/blob/master/images/darylewilliamsblackdhtweet.png" height="400">
 <img src="https://github.com/caitcl/datastory/blob/master/images/jluwritesblackdhtweet.png" height="400">
 
 This was by far the richest twitter search for the type of data I am interested in, although there was also a significant amount of “noise” in the data set – tweets about the color black, or a satiric website named The Black Sheep (@BlackSheep_UMD) – that was unrelated to the topics of black student life on campus. This data set is also difficult to analyze using google sheets – the type of data story from Martha Kang’s 7 types that most resonates with the data I collected is “Start Big and Drill Down” – the interesting tweets I referenced in the paragraph above I discovered simply by reading the tweets in twitter’s advanced search, not by analyzing the collected data set as a whole. I struggled to find meaningful ways to use the the pivot table and chart creating capabilities of google sheets – after a few tries, I decided that the option to sort the number of each type of tweet (original, quote, retweet, reply) might provide some insight, so I will include that table and chart here.
