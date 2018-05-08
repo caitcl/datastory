@@ -24,10 +24,10 @@ This search uncovered 142 tweets that contained both “black” and “umd,” 
  
 “I’m so disconnected from black umd,” posted by an user who appears to be a current UMD student on May 5, a twitter thread comparing Netflix series *Dear White People* to UMD on May 4, a conversation on black men ignoring black women’s voices at UMD on May 7, as well as several tweets about the AADHUM imitative and black digital humanities. 
 
-<img src="https://github.com/caitcl/datastory/blob/master/images/nnennannenna_tweet.png" height="400">
+<img src="https://github.com/caitcl/datastory/blob/master/images/nnennannenna_tweet.png" width="700">
 <img src="https://github.com/caitcl/datastory/blob/master/images/dearwhitepeopletweet.png" height="400">
-<img src="https://github.com/caitcl/datastory/blob/master/images/africana_barbieblackwomentweet.png" height="400">
-<img src="https://github.com/caitcl/datastory/blob/master/images/darylewilliamsblackdhtweet.png" height="400">
+<img src="https://github.com/caitcl/datastory/blob/master/images/africana_barbieblackwomentweet.png" width="700">
+<img src="https://github.com/caitcl/datastory/blob/master/images/darylewilliamsblackdhtweet.png" width="700">
 <img src="https://github.com/caitcl/datastory/blob/master/images/jluwritesblackdhtweet.png" height="400">
 
 This was by far the richest twitter search for the type of data I am interested in, although there was also a significant amount of “noise” in the data set – tweets about the color black, or a satiric website named The Black Sheep (@BlackSheep_UMD) – that was unrelated to the topics of black student life on campus. This data set is also difficult to analyze using google sheets – the type of data story from Martha Kang’s 7 types that most resonates with the data I collected is “Start Big and Drill Down” – the interesting tweets I referenced in the paragraph above I discovered simply by reading the tweets in twitter’s advanced search, not by analyzing the collected data set as a whole. I struggled to find meaningful ways to use the the pivot table and chart creating capabilities of google sheets – after a few tries, I decided that the option to sort the number of each type of tweet (original, quote, retweet, reply) might provide some insight, so I will include that table and chart here.
