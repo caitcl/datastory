@@ -6,6 +6,7 @@ The most difficult aspect of this assignment for me was choosing a data set to w
 Unfortunately, the twitter data I most wanted to capture – the UMD community reactions to the murder of Richard Collins in College Park last May, as seen through the use of the #UMDreflects and #FearThe Turtle hashtags – was beyond the date range that twarc can capture. I attempted to get at this data a few other ways, but ultimately it simply wasn’t doable given the tools at hand – all of the most interesting data was beyond twarc’s collection date range.
 
 I practiced with using twarc to collect tweets using #DigitalHumanities, which yielded [1999 tweets](https://github.com/caitcl/datastory/blob/master/data/hashdhtweets.csv). I did some analysis using google Sheets on the most popular other hashtags used alongside #digitalhumanities (see chart).
+<img src="https://github.com/caitcl/datastory/blob/master/images/hashdhhashtagchart.png" width="700">
 ![chart](https://github.com/caitcl/datastory/blob/master/images/hashdhhashtagchart.png)
 
 However, this felt too similar to the in-class exercise Ed and Purdom did with us, so I decided to return to attempting to figure out a twarc search that would gather tweets related to black life at UMD.
